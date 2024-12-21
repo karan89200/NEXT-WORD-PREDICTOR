@@ -1,6 +1,6 @@
 # Next-Word Prediction using LSTM
 
-
+![Screenshot 2024-12-21 184842](https://github.com/user-attachments/assets/c253d428-afb2-4690-bee8-ce3a65cb234e)
 
 This project demonstrates the use of **Long Short-Term Memory (LSTM)** networks for **Next-Word Prediction**, a natural language processing (NLP) task. The goal is to predict the next word in a given sequence based on previous context, using a deep learning approach.
 
